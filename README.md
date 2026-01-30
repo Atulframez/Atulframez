@@ -1,5 +1,68 @@
-# 💫 About Me:
-Hi, I’m Atul Anand — a dedicated BCA (Honours/Honours with Research) student at Amity University, Noida, with a deep passion for building solutions that bridge real-world challenges with modern technology.<br>Alongside my undergraduate studies, I have completed a Minor in Computer Science from IIT Mandi, which further strengthened my foundations in computing and innovation.<br>💻 Tech Expertise: Languages & Frameworks: Proficient in Python, MySQL, JavaScript, and React.js <br>Core Skills: Solid understanding of DBMS, cybersecurity principles, and web development <br>Creative Edge: Skilled in graphic design, with a keen eye for photography and videography as a creative outlet <br>🛠️ Experience: Practical exposure to solving real-world problems, delivering results through efficient code and intuitive design<br>Versatile in both development and security, balancing frontend fluency with backend strength.<br>📚 Currently Learning: Staying up-to-date with emerging technologies, trends, and tools in the ever-evolving tech ecosystem.<br>Let’s Connect: I’m always open to discussing exciting ideas, research collaborations, or tech innovations — feel free to reach out!
+## 👋 About Me
+
+Hi, I’m **Atul Anand**, a BCA (Honours) student at **Amity University, Noida**, with a strong interest in building **real-world applications and AI/ML solutions** that solve practical problems.
+
+I enjoy working at the intersection of **app development, artificial intelligence, and databases**, and I’m constantly learning new technologies to improve my problem-solving and development skills.
+
+---
+
+## 🚀 What I Do
+
+- 📱 **App Development**  
+  Building functional and user-focused applications with clean UI and efficient backend logic.
+
+- 🤖 **AI / Machine Learning**  
+  Working on ML models, data processing, and intelligent solutions using Python and related tools.
+
+- 🌐 **Full-Stack Development**  
+  Developing end-to-end web applications with a balance of frontend design and backend performance.
+
+- 🗄️ **Database Management (DBMS)**  
+  Designing schemas, writing optimized SQL queries, and managing relational databases like MySQL.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**
+- Python, JavaScript, SQL
+- MySQL
+- HTML, CSS, React.js
+
+**Core Areas**
+- App Development
+- AI / Machine Learning
+- Full-Stack Web Development
+- Database Design & Management (DBMS)
+
+---
+
+## 📌 Currently Learning
+
+- Advanced Machine Learning concepts  
+- Backend optimization and API development  
+- Scalable application design  
+- Real-world AI use cases
+
+---
+
+## 🌱 Goals
+
+- Build impactful apps and AI-powered solutions  
+- Gain industry experience through internships and projects  
+- Continuously grow as a developer and problem solver
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to:
+- Collaborations on app or AI/ML projects  
+- Learning opportunities and internships  
+- Tech discussions and idea sharing  
+
+Feel free to explore my repositories and connect with me!
+
 
 
 ## 🌐 Socials:
